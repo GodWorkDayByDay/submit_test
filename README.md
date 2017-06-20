@@ -4,3 +4,5 @@ read me_feature
 feature
 comments
 cs
+mon
+clr
